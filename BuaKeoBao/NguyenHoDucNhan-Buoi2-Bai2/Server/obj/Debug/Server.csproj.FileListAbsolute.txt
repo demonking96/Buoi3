@@ -1,0 +1,8 @@
+D:\LapTrinhMang\Buoi2\BuaKeoBao\NguyenHoDucNhan-Buoi2-Bai2\Server\bin\Debug\Server.exe.config
+D:\LapTrinhMang\Buoi2\BuaKeoBao\NguyenHoDucNhan-Buoi2-Bai2\Server\bin\Debug\Server.exe
+D:\LapTrinhMang\Buoi2\BuaKeoBao\NguyenHoDucNhan-Buoi2-Bai2\Server\bin\Debug\Server.pdb
+D:\LapTrinhMang\Buoi2\BuaKeoBao\NguyenHoDucNhan-Buoi2-Bai2\Server\obj\Debug\Server.exe
+D:\LapTrinhMang\Buoi2\BuaKeoBao\NguyenHoDucNhan-Buoi2-Bai2\Server\obj\Debug\Server.pdb
+D:\LapTrinhMang\Buoi3\BuaKeoBao\NguyenHoDucNhan-Buoi2-Bai2\Server\bin\Debug\Server.exe.config
+D:\LapTrinhMang\Buoi3\BuaKeoBao\NguyenHoDucNhan-Buoi2-Bai2\Server\obj\Debug\Server.exe
+D:\LapTrinhMang\Buoi3\BuaKeoBao\NguyenHoDucNhan-Buoi2-Bai2\Server\obj\Debug\Server.pdb

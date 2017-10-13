@@ -1,0 +1,14 @@
+D:\LapTrinhMang\Buoi2\BuaKeoBao\NguyenHoDucNhan-Buoi2-Bai2\NguyenHoDucNhan-Buoi2-Bai2\obj\Debug\NguyenHoDucNhan_Buoi2_Bai2.Form1.resources
+D:\LapTrinhMang\Buoi2\BuaKeoBao\NguyenHoDucNhan-Buoi2-Bai2\NguyenHoDucNhan-Buoi2-Bai2\obj\Debug\NguyenHoDucNhan_Buoi2_Bai2.Properties.Resources.resources
+D:\LapTrinhMang\Buoi2\BuaKeoBao\NguyenHoDucNhan-Buoi2-Bai2\NguyenHoDucNhan-Buoi2-Bai2\obj\Debug\NguyenHoDucNhan_Buoi2_Bai2.csproj.GenerateResource.Cache
+D:\LapTrinhMang\Buoi2\BuaKeoBao\NguyenHoDucNhan-Buoi2-Bai2\NguyenHoDucNhan-Buoi2-Bai2\obj\Debug\NguyenHoDucNhan-Buoi2-Bai2.exe
+D:\LapTrinhMang\Buoi2\BuaKeoBao\NguyenHoDucNhan-Buoi2-Bai2\NguyenHoDucNhan-Buoi2-Bai2\obj\Debug\NguyenHoDucNhan-Buoi2-Bai2.pdb
+D:\LapTrinhMang\Buoi3\BuaKeoBao\NguyenHoDucNhan-Buoi2-Bai2\NguyenHoDucNhan-Buoi2-Bai2\bin\Debug\NguyenHoDucNhan-Buoi2-Bai2.exe.config
+D:\LapTrinhMang\Buoi3\BuaKeoBao\NguyenHoDucNhan-Buoi2-Bai2\NguyenHoDucNhan-Buoi2-Bai2\obj\Debug\NguyenHoDucNhan-Buoi2-Bai2.exe
+D:\LapTrinhMang\Buoi3\BuaKeoBao\NguyenHoDucNhan-Buoi2-Bai2\NguyenHoDucNhan-Buoi2-Bai2\obj\Debug\NguyenHoDucNhan-Buoi2-Bai2.pdb
+D:\LapTrinhMang\Buoi3\BuaKeoBao\NguyenHoDucNhan-Buoi2-Bai2\NguyenHoDucNhan-Buoi2-Bai2\obj\Debug\NguyenHoDucNhan_Buoi2_Bai2.csprojResolveAssemblyReference.cache
+D:\LapTrinhMang\Buoi3\BuaKeoBao\NguyenHoDucNhan-Buoi2-Bai2\NguyenHoDucNhan-Buoi2-Bai2\obj\Debug\NguyenHoDucNhan_Buoi2_Bai2.Form1.resources
+D:\LapTrinhMang\Buoi3\BuaKeoBao\NguyenHoDucNhan-Buoi2-Bai2\NguyenHoDucNhan-Buoi2-Bai2\obj\Debug\NguyenHoDucNhan_Buoi2_Bai2.Properties.Resources.resources
+D:\LapTrinhMang\Buoi3\BuaKeoBao\NguyenHoDucNhan-Buoi2-Bai2\NguyenHoDucNhan-Buoi2-Bai2\obj\Debug\NguyenHoDucNhan_Buoi2_Bai2.csproj.GenerateResource.Cache
+D:\LapTrinhMang\Buoi3\BuaKeoBao\NguyenHoDucNhan-Buoi2-Bai2\NguyenHoDucNhan-Buoi2-Bai2\bin\Debug\NguyenHoDucNhan-Buoi2-Bai2.exe
+D:\LapTrinhMang\Buoi3\BuaKeoBao\NguyenHoDucNhan-Buoi2-Bai2\NguyenHoDucNhan-Buoi2-Bai2\bin\Debug\NguyenHoDucNhan-Buoi2-Bai2.pdb
